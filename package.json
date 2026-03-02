@@ -7,6 +7,9 @@
     "dev": "tsx watch src/index.ts",
     "commit": "czg"
   },
+  "engines": {
+    "node": "24.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
